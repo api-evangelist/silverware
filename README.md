@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Silverware is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://silverwarepos.com/
+Silverware provides a comprehensive point‑of‑sale (POS) platform for the hospitality industry, offering solutions for restaurants, hotels, bars, and other food‑service venues. Their suite includes point‑of‑sale software, guest experience tools, online ordering, mobile technology, loyalty programs, and device‑as‑a‑service options, all designed to streamline operations and enhance customer engagement across multi‑unit enterprises.
+
+**Areas:** Hospitality · POS · Restaurants · Hotels · Software
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://silverwarepos.com/)
+- [Support](https://support.silverwarepos.com/)
+- [Blog](https://www.silverwarepos.com/newsroom/tag/Blog)
+- [Privacy policy](https://www.silverwarepos.com/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/silverware/](https://apis.io/providers/silverware/).
